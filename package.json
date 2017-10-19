@@ -1,6 +1,5 @@
-
 {
-  "//": "Copyright 2017, Dell EMC, Inc.",
+  "//": "Copyright 2017, Dell  EMC, Inc.",
   "name": "on-tasks",
   "version": "2.27.0",
   "description": "Tasks repository (meant as a library of tasks) to be loaded and run by task graphs as needed.",
@@ -20,10 +19,10 @@
   "homepage": "https://github.com/RackHD/on-tasks",
   "dependencies": {
     "ajv": "^4.1.0",
-    "di": "git+https://github.com/RackHD/di.js.git",
+    "di": "git+https://github.com/mcgG/di.js.git",
     "dockerode": "^2.2.10",
     "lodash": "^3.10.1",
-    "on-core": "git+https://github.com/RackHD/on-core.git",
+    "on-core": "git+https://github.com/mcgG/on-core.git",
     "ssh2": "0.5.0",
     "url-parse": "~1.0.5",
     "xml2js": "^0.4.4",
